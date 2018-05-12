@@ -1,0 +1,27 @@
+_repo: Sir-Walter-Scott-as-a-Critic-of-Literature_16715
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ball, Margaret
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '6886'
+    url: http://www.gutenberg.org/2009/agents/6886
+description: ''
+gutenberg_issued: '2005-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16715'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scott, Walter, 1771-1832 -- Knowledge -- Literature'
+- !lcc 'PR'
+- !lcsh 'Scott, Walter, 1771-1832 -- Bibliography'
+title: Sir Walter Scott as a Critic of Literature
+url: http://www.gutenberg.org/ebooks/16715
